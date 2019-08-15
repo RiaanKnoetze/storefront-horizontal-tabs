@@ -1,0 +1,54 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Storefront Horizontal Tabs\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-08-15 18:36+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+
+#: storefront-horizontal-tabs.php:209
+msgid "Close"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "http://woocommerce.com/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://wordpress.org/plugins/storefont-horizontal-tabs/"
+msgstr ""
+
+#: storefront-horizontal-tabs.php:195
+msgid "Install Storefront now"
+msgstr ""
+
+#. Author of the plugin
+msgid "Riaan K. | WooCommerce"
+msgstr ""
+
+#. Name of the plugin
+msgid "Storefront Horizontal Tabs"
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"Storefront Horizontal Tabs changes the layout of the tabs from vertical to "
+"horizontal - Similar what is used on the main WooCommerce.com website"
+msgstr ""
+
+#: storefront-horizontal-tabs.php:195
+msgid ""
+"Storefront Horizontal Tabs requires that you use Storefront as your parent "
+"theme."
+msgstr ""
+
+#: storefront-horizontal-tabs.php:139
+msgid "Support"
+msgstr ""

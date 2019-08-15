@@ -1,0 +1,31 @@
+@media screen and (min-width: 768px) {
+  .storefont-horizontal-tabs-active #content .woocommerce-MyAccount-navigation,
+  .storefont-horizontal-tabs-active #content .woocommerce-MyAccount-content {
+      width: 100%;
+  }
+
+  .storefont-horizontal-tabs-active #content .woocommerce-MyAccount-navigation {    
+      margin-bottom: 1.41575em;
+      padding-left: 0.5em;
+  }
+
+  .storefont-horizontal-tabs-active #content .woocommerce-MyAccount-navigation ul {
+      margin: 0;
+      border-top: none;
+  }
+
+  .storefont-horizontal-tabs-active #content .woocommerce-MyAccount-navigation li {
+      display: inline-block;
+      margin: 0 0.5em;
+      padding: 0 0.5em;    
+      border-bottom: none;
+  }
+
+  .storefont-horizontal-tabs-active #content .woocommerce-MyAccount-navigation li.is-active a {
+      font-weight: 600;
+  }
+
+  .storefont-horizontal-tabs-active #content .woocommerce-MyAccount-navigation li a:before {
+      display: none;
+  }
+}
